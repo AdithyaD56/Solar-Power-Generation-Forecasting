@@ -63,3 +63,18 @@ Failure to update the file paths may result in *FileNotFoundError*.
 **Example:**
 ```python
 data = pd.read_csv("C:/Users/YourName/Documents/solarpowergeneration.csv")
+
+
+---
+
+## 🌐 Live Deployment
+
+[🚀 SOlar Forecasting Intelligence Studio](https://solar-power-generation-forecasting-1.streamlit.app/)
+
+---
+
+## 👨‍💻 Author
+
+Developed by:
+
+**Dhavala V D M Adithya Naidu**
