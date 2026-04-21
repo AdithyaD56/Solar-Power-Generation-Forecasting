@@ -55,18 +55,6 @@ https://www.kaggle.com/datasets/anikannal/solar-power-generation-data
 
 ---
 
-## ⚠️ Important Note (Before Running the Code)
-Before running any **Jupyter Notebook (`.ipynb`) files**, ensure that you **update the dataset file paths** according to where the dataset files are stored on your local system.
-
-Failure to update the file paths may result in *FileNotFoundError*.
-
-**Example:**
-```python
-data = pd.read_csv("C:/Users/YourName/Documents/solarpowergeneration.csv")
-
-
----
-
 ## 🌐 Live Deployment
 
 [🚀 SOlar Forecasting Intelligence Studio](https://solar-power-generation-forecasting-1.streamlit.app/)
@@ -78,3 +66,15 @@ data = pd.read_csv("C:/Users/YourName/Documents/solarpowergeneration.csv")
 Developed by:
 
 **Dhavala V D M Adithya Naidu**
+
+## ⚠️ Important Note (Before Running the Code)
+Before running any **Jupyter Notebook (`.ipynb`) files**, ensure that you **update the dataset file paths** according to where the dataset files are stored on your local system.
+
+Failure to update the file paths may result in *FileNotFoundError*.
+
+**Example:**
+```python
+data = pd.read_csv("C:/Users/YourName/Documents/solarpowergeneration.csv")
+
+
+---
