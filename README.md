@@ -57,7 +57,7 @@ https://www.kaggle.com/datasets/anikannal/solar-power-generation-data
 
 ## 🌐 Live Deployment
 
-[🚀 SOlar Forecasting Intelligence Studio](https://solar-power-generation-forecasting-1.streamlit.app/)
+[🚀 Solar Forecasting Intelligence Studio](https://solar-power-generation-forecasting-1.streamlit.app/)
 
 ---
 
